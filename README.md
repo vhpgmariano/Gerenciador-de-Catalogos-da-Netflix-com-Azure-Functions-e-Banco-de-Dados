@@ -1,0 +1,1 @@
+# Gerenciador-de-Catalogos-da-Netflix-com-Azure-Functions-e-Banco-de-Dados
